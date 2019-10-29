@@ -108,7 +108,7 @@
         },
         {
             "place_id":9,
-            "place_name":"P.T. Usha Stadium",
+            "place_name":"Sachin Tendulkar Cricket Stadium",
             "place_timing":{
                 "sun":["00:00","23:59"],
                 "mon":["00:00","23:59"],
@@ -119,6 +119,7 @@
                 "sat":["00:00","23:59"]
             }
         }
+        
     ]
 }
 
